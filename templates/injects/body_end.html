@@ -1,0 +1,16 @@
+<script>
+	window.addEventListener("load", () => {
+		if (window.location.hostname === "salif.eu") {
+			const s = document.createElement('script');
+			s.async = true;
+			s.addEventListener("load", () => {
+				if (undefined == window.va) window.va = () => {
+					if (undefined != window.vaq)
+						window.vaq.push(arguments);
+				};
+			});
+			s.src = "/_vercel/insights/script.js";
+			document.body.appendChild(s);
+		}
+	});
+</script>

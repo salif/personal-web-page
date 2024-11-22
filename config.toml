@@ -38,15 +38,15 @@ disable_javascript = false
 
 [extra.style]
 # The custom background color
-bg_color = "#eff1f5"
+bg_color = "#e6e9ef"
 # The custom background color in dark mode
-bg_dark_color = "#1e1e2e"
+bg_dark_color = "#161e27"
 # Enable header blur
 header_blur = false
 # The custom header color, only available when `header_blur` is false
-header_color = "#eff1f5"
+header_color = "#e6e9ef"
 # The custom header color in dark mode, only available when `header_blur` is false
-header_dark_color = "#1e1e2e"
+header_dark_color = "#161e27"
 
 [[extra.menus.main]]
 url = "$BASE_URL/about/"
