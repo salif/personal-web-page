@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: salif.eu
+Token: bb415a7e120b5709ce6f1d7b286b601a0ea2623aab6cc3945b311ff1a6a998c4

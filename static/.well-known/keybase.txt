@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/salifm_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://salif.eu
+  * I am salifm_ (https://keybase.io/salifm_) on keybase.
+  * I have a public key ASA-FPLiI7Tx156koKlscfJlcMU6md-SI-rznIAgb3b_9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203ade269a311ad0e4f1d6c7b7ea039098da063c3eb0dab58f9273cf5f0771fc5a0a",
+      "host": "keybase.io",
+      "kid": "01203e14f2e223b4f1d79ea4a0a96c71f26570c53a99df9223eaf39c80206f76fff40a",
+      "uid": "2255a1157cf68a554cc314618b7c3819",
+      "username": "salifm_"
+    },
+    "merkle_root": {
+      "ctime": 1624556899,
+      "hash": "d8638adb9a848d681a69bd3bb232de2c477ffe2bac3127639cbce28ea761a2379ccb6d0242000ce8cd919401328a9a4cfdd3c6fdc5bc36d26a31a1dc98608837",
+      "hash_meta": "ef479f4e43b09afcc96c6747593e9a1d764bce6900b49603dcc28332718217a3",
+      "seqno": 20251330
+    },
+    "service": {
+      "entropy": "+zhsIZK90WLw1XIAQatBzK75",
+      "hostname": "salif.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1624556958,
+  "expire_in": 504576000,
+  "prev": "cc95a7c3bd7b3ebed951657aa63724ec3319af291bc8954ff732831f77ac09b8",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPhTy4iO08deepKCpbHHyZXDFOpnfkiPq85yAIG92//QKp3BheWxvYWTESpcCK8QgzJWnw717Pr7ZUWV6pjck7DMZrykbyJVP9zKDH3esCbjEIB5Txw8ofD0sHnpQ5WHtMUAcOTJNzVEIeksMyReyl1E/AgHCo3NpZ8RAamrEh/WXrakGFNzrVz0kVwa3Gss28kBavafo3zARZ4MnJBa6CDZWf0eRYapYQ9g0Z8o/xJ8UFEp/oz6Carj3AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOyk9hnbSnEeCCOAFwGhFTntIWIA9p5KTeawBF4K9fvqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/salifm_
+
+==================================================================

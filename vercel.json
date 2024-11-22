@@ -1,0 +1,6 @@
+{
+	"cleanUrls": true,
+	"trailingSlash": true,
+	"regions": ["fra1"],
+	"public": true
+}

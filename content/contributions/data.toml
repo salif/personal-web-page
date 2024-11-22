@@ -1,0 +1,146 @@
+[[project]]
+name = "Forgejo"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://translate.codeberg.org/projects/forgejo/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "Lemmy"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/languages/bg/lemmy/#history" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "Photon"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.xylight.dev/projects/photon/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "Mbin"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/mbin/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "Firefish"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
+other = "6 gl le ne"
+
+[[project]]
+name = "TOKIMEKI"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/spuithori/tokimekibluesky/commits/master/src/lib/i18n/locales/bg.json" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "Jerboa"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/dessalines/jerboa/commits/main/app/src/main/res/values-bg" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "Thumb-Key"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/dessalines/thumb-key/commits/main/app/src/main/res/values-bg" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "SDDM"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/sddm/sddm/commits/develop/data/translations/bg.ts" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "LibreTranslate"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/libretranslate/-/bg/#history" }]
+other = "6 gl le ne"
+
+[[project]]
+name = "Element X"
+desc = ""
+tags = ["bg"]
+links = [{ name = "localazy", url = "https://localazy.com/p/element" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "Element Web"
+desc = ""
+tags = ["bg"]
+links = [{ name = "localazy", url = "https://localazy.com/p/element-web" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "Fossify"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "PeerTube"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.framasoft.org/languages/bg/#history" }]
+other = "3 ng le iz"
+
+[[project]]
+name = "KeepassDX"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/keepass-dx/-/bg/#history" }]
+other = "3 ng le iz"
+
+[[project]]
+name = "Tusky"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.tusky.app/projects/tusky/tusky/bg/#history" }]
+other = "3 ng le iz"
+
+[[project]]
+name = "Iceshrimp"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/languages/bg/iceshrimp/#history" }]
+other = "3 ng le iz"
+
+[[project]]
+name = "Fedilab"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fedilab/-/bg/#history" }]
+other = "2 ng le ne"
+
+[[project]]
+name = "Kaiteki"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/kaiteki/-/bg/#history" }]
+other = "2 ng le ne"
+
+[[project]]
+name = "Localazy"
+desc = ""
+tags = ["bg"]
+links = [{ name = "localazy", url = "https://localazy.com/p/localazy-spa" }]
+other = "1 ng tr iz"
+
+[[project]]
+name = "Mangane"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/BDX-town/Mangane/commits/master/app/soapbox/locales/bg.json" }]
+other = "1 ng tr iz"
