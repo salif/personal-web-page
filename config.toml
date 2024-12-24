@@ -112,3 +112,6 @@ date_format_archive = "%d.%m"
 
 [extra.footer]
 since = 2024
+
+[extra.vercel_analytics]
+src = "/_vercel/insights/script.js"

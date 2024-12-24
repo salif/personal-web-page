@@ -62,6 +62,13 @@ links = [{ name = "github", url = "https://github.com/sddm/sddm/commits/develop/
 other = "5 gl tr iz"
 
 [[project]]
+name = "giscus"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/giscus/giscus/commits/main/locales/bg" }]
+other = "5 gl tr iz"
+
+[[project]]
 name = "LibreTranslate"
 desc = ""
 tags = ["bg"]
@@ -88,6 +95,20 @@ desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
 other = "5 gl tr iz"
+
+[[project]]
+name = "PinkSea"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.ts" }]
+other = "4 gl tr ne"
+
+[[project]]
+name = "minimal-mistakes"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/mmistakes/minimal-mistakes/commits/master/_data/ui-text.yml" }]
+other = "4 gl tr ne"
 
 [[project]]
 name = "PeerTube"
