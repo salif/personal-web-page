@@ -2,11 +2,13 @@
 title: Kontakti
 description: Sendu al mi retmesaĝon
 weight: 0
+extra:
+  math: true
 ---
 
 ## Retpoŝti
 
-- [mail@salif.eu](mailto:mail@salif.eu)
+- $\texttt{mail}\texttt{@}\texttt{salif.eu}$
 
 {{ my_public_key(summary="publika ŝlosilo por ĉifrado") }}
 

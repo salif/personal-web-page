@@ -2,11 +2,13 @@
 title: Контакт
 description: За контакт с мен
 weight: 0
+extra:
+  math: true
 ---
 
 ## Електронна поща
 
-- [mail@salif.eu](mailto:mail@salif.eu)
+- $\texttt{mail}\texttt{@}\texttt{salif.eu}$
 
 {{ my_public_key(summary="публичен ключ") }}
 

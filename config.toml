@@ -5,19 +5,23 @@ default_language = "en"
 compile_sass = false
 generate_feeds = false
 build_search_index = true
-minify_html = false
+minify_html = true
 
 [languages.en]
-title = "salif.eu"
-description = "My personal website"
+title = "Salif's personal website"
+description = "My name is Salif Mehmed and this is my personal website. See a list of my coding projects and social profiles and how to contact me"
 
 [languages.bg]
-title = "salif.eu"
-description = "Моят личен сайт"
+title = "Сайтът на Салиф"
+description = "Казвам се Салиф Мехмед и това е моят личен уебсайт. Вижте списък с моите проекти, социални профили и как да се свържете с мен"
 
 [languages.eo]
-title = "salif.eu"
-description = "Mia persona retejo"
+title = "La persona retejo de Salif"
+description = "Mi nomiĝas Salif Mehmed kaj ĉi tio estas mia persona retejo. Vidu liston de miaj kodaj projektoj kaj sociaj profiloj kaj kiel kontakti min"
+
+[languages.tr]
+title = "Salif'in web sitesi"
+description = "Benim adım Salif Mehmed ve bu benim kişisel web sitem. Projelerimi, sosyal profillerimi ve benimle nasıl iletişime geçebileceğinizi görün"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -31,7 +35,6 @@ smart_punctuation = false
 math = false
 mermaid = false
 comment = false
-# header_menu_name = "main"
 page_info = ["date_on_page", "date_updated_on_page", "reading_time_on_page", "authors_on_page"]
 header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
 disable_default_favicon = true
@@ -49,16 +52,6 @@ header_color = "#e6e9ef"
 # The custom header color in dark mode, only available when `header_blur` is false
 header_dark_color = "#161e27"
 
-[[extra.menus.main]]
-url = "$BASE_URL/about/"
-name = "About"
-names = { bg = "За сайта", eo = "Pri la retejo" }
-
-[[extra.menus.main]]
-url = "https://bg.salif.eu"
-name = "Blog"
-names = { bg = "Моят блог", eo = "Mia blogo" }
-
 [extra.profiles.salif]
 avatar_url = "ico/android-icon-192x192.png"
 avatar_alt = "My avatar: Tux is watching you... with his glowing eyes"
@@ -71,6 +64,7 @@ social = [
 	{ name = "bluesky", url = "https://bsky.app/profile/did:plc:3ebgy675tgwzqudufqvifpxv" },
 	{ name = "github", url = "https://github.com/salif" },
 	{ name = "codeberg", url = "https://codeberg.org/salif" },
+	{ name = "element", url = "https://matrix.to/#/@salif:mozilla.org" },
 ]
 
 [extra.profiles.salif.languages.bg]
@@ -85,6 +79,12 @@ bio = "Bonvenon al mia persona retejo"
 url = "https://salif.eu/eo/"
 avatar_alt = "Mia avataro: La pingveno de Linukso rigardas vin... per siaj brilaj okuloj!"
 
+[extra.profiles.salif.languages.tr]
+name = "Salif Mehmed"
+bio = "Web siteme hoş geldiniz"
+url = "https://salif.eu/tr/"
+avatar_alt = "Avatarım: Linux pengueni seni izliyor... parlayan gözleriyle!"
+
 [extra.profiles.salif.open_graph]
 first_name = "Salif"
 last_name = "Mehmed"
@@ -94,7 +94,7 @@ gender = "male"
 [extra.profiles.salif.open_graph.fediverse_creator]
 handle = "bg.salif.eu"
 domain = "bsky.brid.gy"
-url = "https://bsky.brid.gy/r/https://bsky.app/profile/bg.salif.eu"
+url = "https://bsky.brid.gy/ap/did:plc:3ebgy675tgwzqudufqvifpxv"
 
 [extra.languages.en]
 locale = "en_US"
@@ -108,6 +108,11 @@ date_format_archive = "%d.%m"
 
 [extra.languages.eo]
 locale = "eo"
+date_format = "%x"
+date_format_archive = "%d.%m"
+
+[extra.languages.tr]
+locale = "tr_TR"
 date_format = "%x"
 date_format_archive = "%d.%m"
 
