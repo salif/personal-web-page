@@ -8,7 +8,7 @@ build_search_index = true
 minify_html = true
 
 [languages.en]
-title = "Salif's personal website"
+title = "Salif's site"
 description = "My name is Salif Mehmed and this is my personal website. See a list of my coding projects and social profiles and how to contact me"
 
 [languages.bg]
@@ -16,12 +16,13 @@ title = "Сайтът на Салиф"
 description = "Казвам се Салиф Мехмед и това е моят личен уебсайт. Вижте списък с моите проекти, социални профили и как да се свържете с мен"
 
 [languages.eo]
-title = "La persona retejo de Salif"
+title = "La retejo de Salif"
 description = "Mi nomiĝas Salif Mehmed kaj ĉi tio estas mia persona retejo. Vidu liston de miaj kodaj projektoj kaj sociaj profiloj kaj kiel kontakti min"
 
 [languages.tr]
 title = "Salif'in web sitesi"
 description = "Benim adım Salif Mehmed ve bu benim kişisel web sitem. Projelerimi, sosyal profillerimi ve benimle nasıl iletişime geçebileceğinizi görün"
+# build_search_index = true
 
 [markdown]
 # Whether to do syntax highlighting
