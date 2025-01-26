@@ -1,16 +1,16 @@
 ---
-title: Контакт
-description: За контакт с мен
+title: İletişim
+description: Benimle iletişime geçmek için
 weight: 0
 extra:
   math: true
 ---
 
-## Електронна поща
+## E-posta
 
 - $\texttt{mail}\texttt{@}\texttt{salif.eu}$
 
-{{ my_public_key(summary="публичен ключ") }}
+{{ my_public_key(summary="genel anahtar") }}
 
 ## Matrix/Element
 
