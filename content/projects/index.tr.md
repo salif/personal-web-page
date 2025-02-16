@@ -1,6 +1,7 @@
 ---
 title: Projelerim
 description: Projelerimin listesi
-template: projects.html
 weight: 1
 ---
+
+{{ projects(path="projects.toml", format="toml") }}
