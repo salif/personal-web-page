@@ -3,7 +3,7 @@ theme = "linkita"
 author = "salif"
 default_language = "en"
 compile_sass = false
-minify_html = true
+minify_html = false
 
 [languages.en]
 title = "Salif's site"

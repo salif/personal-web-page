@@ -12,6 +12,6 @@ extra:
 
 {{ my_public_key(summary="публичен ключ") }}
 
-## Matrix/Element
+## Матрикс (Matrix/Element)
 
 - [@salif:mozilla.org](https://matrix.to/#/@salif:mozilla.org)

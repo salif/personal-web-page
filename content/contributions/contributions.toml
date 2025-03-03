@@ -13,6 +13,13 @@ links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/languages/bg/
 other = "7 gl le iz"
 
 [[project]]
+name = "Thumb-Key"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/thumb-key/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
 name = "Photon"
 desc = ""
 tags = ["bg"]
@@ -24,20 +31,6 @@ name = "Mbin"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/mbin/-/bg/#history" }]
-other = "7 gl le iz"
-
-[[project]]
-name = "Thumb-Key"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/thumb-key/-/bg/#history" }]
-other = "7 gl le iz"
-
-[[project]]
-name = "Firefish"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
 other = "6 gl le ne"
 
 [[project]]
@@ -55,17 +48,17 @@ links = [{ name = "github", url = "https://github.com/dessalines/jerboa/commits/
 other = "5 gl tr iz"
 
 [[project]]
-name = "SDDM"
-desc = ""
-tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/sddm/sddm/commits/develop/data/translations/bg.ts" }]
-other = "5 gl tr iz"
-
-[[project]]
 name = "giscus"
 desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/giscus/giscus/commits/main/locales/bg" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "SDDM"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/sddm/sddm/commits/develop/data/translations/bg.ts" }]
 other = "5 gl tr iz"
 
 [[project]]
@@ -94,13 +87,6 @@ name = "Fossify"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
-other = "5 gl tr iz"
-
-[[project]]
-name = "PinkSea"
-desc = ""
-tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.ts" }]
 other = "4 gl tr ne"
 
 [[project]]
@@ -111,11 +97,11 @@ links = [{ name = "github", url = "https://github.com/mmistakes/minimal-mistakes
 other = "4 gl tr ne"
 
 [[project]]
-name = "PeerTube"
+name = "PinkSea"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.framasoft.org/languages/bg/#history" }]
-other = "3 ng le iz"
+links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.ts" }]
+other = "4 gl tr ne"
 
 [[project]]
 name = "KeepassDX"
@@ -125,18 +111,32 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/keepass-
 other = "3 ng le iz"
 
 [[project]]
+name = "PeerTube"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.framasoft.org/languages/bg/#history" }]
+other = "2 ng le ne"
+
+[[project]]
 name = "Tusky"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://weblate.tusky.app/projects/tusky/tusky/bg/#history" }]
-other = "3 ng le iz"
+other = "2 ng le ne"
 
 [[project]]
 name = "Iceshrimp"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/languages/bg/iceshrimp/#history" }]
-other = "3 ng le iz"
+other = "2 ng le ne"
+
+[[project]]
+name = "Firefish"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
+other = "2 ng le ne"
 
 [[project]]
 name = "Fedilab"
