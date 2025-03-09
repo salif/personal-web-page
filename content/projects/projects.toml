@@ -1,10 +1,11 @@
 [[project]]
-name = "mon"
-desc = "A library for building decks"
+name = "morse-code-translator"
+desc = "Morse Code Translator"
 tags = ["Gleam"]
 links = [
-	{ name = "codeberg.org/salif/mon", url = "https://codeberg.org/salif/mon" },
-	{ name = "github.com/salif/mon", url = "https://github.com/salif/mon" },
+	{ name = "web page", url = "https://salif.github.io/morse-code-translator/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/morse-code-translator" },
+	{ name = "on github", url = "https://github.com/salif/morse-code-translator" },
 ]
 
 [[project]]
@@ -12,9 +13,9 @@ name = "gu"
 desc = "Zenity GUI dialogs Gleam wrapper"
 tags = ["Gleam"]
 links = [
-	{ name = "hex.pm/packages/gu", url = "https://hex.pm/packages/gu" },
-    { name = "codeberg.org/salif/gu", url = "https://codeberg.org/salif/gu" },
-	{ name = "github.com/salif/gu", url = "https://github.com/salif/gu" },
+	{ name = "on hex.pm", url = "https://hex.pm/packages/gu" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/gu" },
+	{ name = "on github", url = "https://github.com/salif/gu" },
 ]
 
 [[project]]
@@ -22,8 +23,8 @@ name = "nemo_gleam"
 desc = "GUI extension for Gleam development"
 tags = ["Gleam"]
 links = [
-	{ name = "codeberg.org/salif/nemo_gleam", url = "https://codeberg.org/salif/nemo_gleam" },
-	{ name = "github.com/salif/nemo_gleam", url = "https://github.com/salif/nemo_gleam" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/nemo_gleam" },
+	{ name = "on github", url = "https://github.com/salif/nemo_gleam" },
 ]
 
 [[project]]
@@ -31,19 +32,18 @@ name = "aham"
 desc = "Build multilingual Gleam applications"
 tags = ["Gleam"]
 links = [
-    { name = "hex.pm/packages/aham", url = "https://hex.pm/packages/aham" },
-    { name = "codeberg.org/salif/aham", url = "https://codeberg.org/salif/aham" },
-    { name = "github.com/salif/aham", url = "https://github.com/salif/aham" },
+    { name = "on hex.pm", url = "https://hex.pm/packages/aham" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/aham" },
+    { name = "on github", url = "https://github.com/salif/aham" },
 ]
 
 [[project]]
-name = "morse-code-translator"
-desc = "Morse Code Translator"
+name = "mon"
+desc = "A library for building decks"
 tags = ["Gleam"]
 links = [
-	{ name = "salif.github.io/morse-code-translator", url = "https://salif.github.io/morse-code-translator/" },
-    { name = "codeberg.org/salif/morse-code-translator", url = "https://codeberg.org/salif/morse-code-translator" },
-	{ name = "github.com/salif/morse-code-translator", url = "https://github.com/salif/morse-code-translator" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/mon" },
+	{ name = "on github", url = "https://github.com/salif/mon" },
 ]
 
 [[project]]
@@ -51,8 +51,8 @@ name = "gleam-open-color"
 desc = "Gleam implementation of the Open Color scheme"
 tags = ["Gleam"]
 links = [
-	{ name = "hex.pm/packages/open_color", url = "https://hex.pm/packages/open_color" },
-	{ name = "github.com/salif/gleam-open-color", url = "https://github.com/salif/gleam-open-color" },
+	{ name = "on hex.pm", url = "https://hex.pm/packages/open_color" },
+	{ name = "on github", url = "https://github.com/salif/gleam-open-color" },
 ]
 
 [[project]]
@@ -60,9 +60,9 @@ name = "sinhrz"
 desc = "A simple folder synchronization tool"
 tags = ["Java"]
 links = [
-	{ name = "salif.github.io/sinhrz", url = "https://salif.github.io/sinhrz/" },
-    { name = "github.com/salif/sinhrz", url = "https://github.com/salif/sinhrz" },
-    { name = "codeberg.org/salif/sinhrz", url = "https://codeberg.org/salif/sinhrz" },
+	{ name = "web page", url = "https://salif.github.io/sinhrz/" },
+    { name = "on github", url = "https://github.com/salif/sinhrz" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/sinhrz" },
 ]
 
 [[project]]
@@ -70,8 +70,8 @@ name = "Tetris"
 desc = "Fun and simple original tetris"
 tags = ["Java"]
 links = [
-	{ name = "salif.github.io/Tetris", url = "https://salif.github.io/Tetris/" },
-    { name = "github.com/salif/Tetris", url = "https://github.com/salif/Tetris" },
+	{ name = "web page", url = "https://salif.github.io/Tetris/" },
+    { name = "on github", url = "https://github.com/salif/Tetris" },
 ]
 
 [[project]]
@@ -79,9 +79,9 @@ name = "gramati-fe-globasa"
 desc = "Translations of the Complete Globasa Grammar"
 tags = ["Language"]
 links = [
-    { name = "salif.github.io/gramati-fe-globasa", url = "https://salif.github.io/gramati-fe-globasa/" },
-    { name = "codeberg.org/salif/gramati-fe-globasa", url = "https://codeberg.org/salif/gramati-fe-globasa" },
-    { name = "github.com/salif/gramati-fe-globasa", url = "https://github.com/salif/gramati-fe-globasa" },
+    { name = "web page", url = "https://salif.github.io/gramati-fe-globasa/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/gramati-fe-globasa" },
+    { name = "on github", url = "https://github.com/salif/gramati-fe-globasa" },
 ]
 
 [[project]]
@@ -89,9 +89,9 @@ name = "globasa-xwexi-pages"
 desc = "Bulgarian translation of Globasa Lessons for Beginners"
 tags = ["Language"]
 links = [
-	{ name = "salif.github.io/globasa-xwexi-pages", url = "https://salif.github.io/globasa-xwexi-pages/" },
-    { name = "github.com/salif/globasa-xwexi-pages", url = "https://github.com/salif/globasa-xwexi-pages" },
-    { name = "codeberg.org/salif/globasa-xwexi-pages", url = "https://codeberg.org/salif/globasa-xwexi-pages" },
+	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
+    { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/globasa-xwexi-pages" },
 ]
 
 [[project]]
@@ -99,9 +99,9 @@ name = "tok-bul-dict"
 desc = "Toki Pona - Bulgarian dictionary"
 tags = ["Language"]
 links = [
-	{ name = "salif.github.io/tok-bul-dict", url = "https://salif.github.io/tok-bul-dict/" },
-    { name = "github.com/salif/tok-bul-dict", url = "https://github.com/salif/tok-bul-dict" },
-    { name = "codeberg.org/salif/tok-bul-dict", url = "https://codeberg.org/salif/tok-bul-dict" },
+	{ name = "web page", url = "https://salif.github.io/tok-bul-dict/" },
+    { name = "on github", url = "https://github.com/salif/tok-bul-dict" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/tok-bul-dict" },
 ]
 
 [[project]]
@@ -109,8 +109,7 @@ name = "gleam-tour-bg"
 desc = "Научете Gleam във вашия браузър!"
 tags = ["Language"]
 links = [
-	{ name = "gleam-tour-bg.salif.eu", url = "https://gleam-tour-bg.salif.eu/" },
-	{ name = "github.com/salif/gleam-tour-bg", url = "https://github.com/salif/gleam-tour-bg" },
+	{ name = "on github", url = "https://github.com/salif/gleam-tour-bg" },
 ]
 
 [[project]]
@@ -118,9 +117,9 @@ name = "alfabetoj"
 desc = "Esperanto alphabet converter"
 tags = ["Language"]
 links = [
-	{ name = "salif.github.io/alfabetoj", url = "https://salif.github.io/alfabetoj/" },
-    { name = "github.com/salif/alfabetoj", url = "https://github.com/salif/alfabetoj" },
-    { name = "codeberg.org/salif/alfabetoj", url = "https://codeberg.org/salif/alfabetoj" },
+	{ name = "web page", url = "https://salif.github.io/alfabetoj/" },
+    { name = "on github", url = "https://github.com/salif/alfabetoj" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/alfabetoj" },
 ]
 
 [[project]]
@@ -128,9 +127,9 @@ name = "dotfiles"
 desc = "My dotfiles"
 tags = ["Linux"]
 links = [
-	{ name = "salif.github.io/dotfiles", url = "https://salif.github.io/dotfiles" },
-    { name = "codeberg.org/salif/dotfiles", url = "https://codeberg.org/salif/dotfiles" },
-    { name = "github.com/salif/dotfiles", url = "https://github.com/salif/dotfiles" },
+	{ name = "web page", url = "https://salif.github.io/dotfiles" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/dotfiles" },
+    { name = "on github", url = "https://github.com/salif/dotfiles" },
 ]
 
 [[project]]
@@ -138,8 +137,8 @@ name = "cli-games"
 desc = "Games in the terminal"
 tags = ["Linux"]
 links = [
-	{ name = "salif.github.io/cli-games", url = "https://salif.github.io/cli-games/" },
-	{ name = "github.com/salif/cli-games", url = "https://github.com/salif/cli-games" },
+	{ name = "web page", url = "https://salif.github.io/cli-games/" },
+	{ name = "on github", url = "https://github.com/salif/cli-games" },
 ]
 
 [[project]]
@@ -147,7 +146,7 @@ name = "lemmy-onion-service"
 desc = "Self-hosted Lemmy using the Tor network"
 tags = ["Linux"]
 links = [
-    { name = "github.com/salif/lemmy-onion-service", url = "https://github.com/salif/lemmy-onion-service" },
+    { name = "on github", url = "https://github.com/salif/lemmy-onion-service" },
 ]
 
 [[project]]
@@ -155,9 +154,9 @@ name = "colemak-eo"
 desc = "Esperanto (Colemak) keyboard layout"
 tags = ["KeyboardLayouts"]
 links = [
-	{ name = "salif.github.io/colemak-eo", url = "https://salif.github.io/colemak-eo/" },
-    { name = "codeberg.org/salif/colemak-eo", url = "https://codeberg.org/salif/colemak-eo" },
-    { name = "github.com/salif/colemak-eo", url = "https://github.com/salif/colemak-eo" },
+	{ name = "web page", url = "https://salif.github.io/colemak-eo/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/colemak-eo" },
+    { name = "on github", url = "https://github.com/salif/colemak-eo" },
 ]
 
 [[project]]
@@ -165,9 +164,9 @@ name = "colemak-bg"
 desc = "Bulgarian (Colemak) keyboard layout"
 tags = ["KeyboardLayouts"]
 links = [
-	{ name = "salif.github.io/colemak-bg", url = "https://salif.github.io/colemak-bg/" },
-    { name = "codeberg.org/salif/colemak-bg", url = "https://codeberg.org/salif/colemak-bg" },
-    { name = "github.com/salif/colemak-bg", url = "https://github.com/salif/colemak-bg" },
+	{ name = "web page", url = "https://salif.github.io/colemak-bg/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/colemak-bg" },
+    { name = "on github", url = "https://github.com/salif/colemak-bg" },
 ]
 
 [[project]]
@@ -175,9 +174,9 @@ name = "colemak-tr"
 desc = "Turkish (Colemak) keyboard layout"
 tags = ["KeyboardLayouts"]
 links = [
-	{ name = "salif.github.io/colemak-tr", url = "https://salif.github.io/colemak-tr/" },
-    { name = "codeberg.org/salif/colemak-tr", url = "https://codeberg.org/salif/colemak-tr" },
-    { name = "github.com/salif/colemak-tr", url = "https://github.com/salif/colemak-tr" },
+	{ name = "web page", url = "https://salif.github.io/colemak-tr/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/colemak-tr" },
+    { name = "on github", url = "https://github.com/salif/colemak-tr" },
 ]
 
 [[project]]
@@ -185,9 +184,9 @@ name = "shaw-eo"
 desc = "Esperanto (Shavian) keyboard layout"
 tags = ["KeyboardLayouts"]
 links = [
-	{ name = "salif.github.io/shaw-eo", url = "https://salif.github.io/shaw-eo/" },
-    { name = "codeberg.org/salif/shaw-eo", url = "https://codeberg.org/salif/shaw-eo" },
-    { name = "github.com/salif/shaw-eo", url = "https://github.com/salif/shaw-eo" },
+	{ name = "web page", url = "https://salif.github.io/shaw-eo/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/shaw-eo" },
+    { name = "on github", url = "https://github.com/salif/shaw-eo" },
 ]
 
 [[project]]
@@ -195,9 +194,9 @@ name = "QA"
 desc = "Question and answer (Q&A) site"
 tags = ["Inactive"]
 links = [
-	{ name = "salif.github.io/QA", url = "https://salif.github.io/QA/" },
-    { name = "github.com/salif/QA", url = "https://github.com/salif/QA" },
-    { name = "codeberg.org/salif/QA", url = "https://codeberg.org/salif/QA" },
+	{ name = "web page", url = "https://salif.github.io/QA/" },
+    { name = "on github", url = "https://github.com/salif/QA" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/QA" },
 ]
 
 [[project]]
@@ -205,9 +204,9 @@ name = "hasher"
 desc = "Library and cli tool for password hashing"
 tags = ["Inactive"]
 links = [
-	{ name = "salif.github.io/hasher", url = "https://salif.github.io/hasher/" },
-    { name = "github.com/salif/hasher", url = "https://github.com/salif/hasher" },
-    { name = "codeberg.org/salif/hasher", url = "https://codeberg.org/salif/hasher" },
+	{ name = "web page", url = "https://salif.github.io/hasher/" },
+    { name = "on github", url = "https://github.com/salif/hasher" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/hasher" },
 ]
 
 [[project]]
@@ -215,7 +214,7 @@ name = "komiki-mono"
 desc = "Comic Mono with ligatures"
 tags = ["Inactive"]
 links = [
-	{ name = "github.com/salif/komiki-mono", url = "https://github.com/salif/komiki-mono" },
+	{ name = "on github", url = "https://github.com/salif/komiki-mono" },
 ]
 
 [[project]]
@@ -223,7 +222,7 @@ name = "mbin-custom-css"
 desc = "Mbin/Kbin Custom CSS Themes"
 tags = ["Inactive"]
 links = [
-	{ name = "github.com/salif/mbin-custom-css", url = "https://github.com/salif/mbin-custom-css" },
+	{ name = "on github", url = "https://github.com/salif/mbin-custom-css" },
 ]
 
 [[project]]
@@ -231,9 +230,9 @@ name = "hide-text"
 desc = "Hide a secret text message inside a text message"
 tags = ["Inactive"]
 links = [
-	{ name = "npmjs.com", url = "https://www.npmjs.com/package/@salifm/hide-text" },
-	{ name = "codeberg.org/salif/hide-text", url = "https://codeberg.org/salif/hide-text" },
-	{ name = "github.com/salif/hide-text", url = "https://github.com/salif/hide-text" },
+	{ name = "on npmjs", url = "https://www.npmjs.com/package/@salifm/hide-text" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/hide-text" },
+	{ name = "on github", url = "https://github.com/salif/hide-text" },
 ]
 
 [[project]]
@@ -241,8 +240,8 @@ name = "chat"
 desc = "PHP/SQLite chat design"
 tags = ["Inactive"]
 links = [
-	{ name = "github.com/salif/chat", url = "https://github.com/salif/chat" },
-	{ name = "codeberg.org/salif/chat", url = "https://codeberg.org/salif/chat" },
+	{ name = "on github", url = "https://github.com/salif/chat" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/chat" },
 ]
 
 [[project]]
@@ -250,8 +249,8 @@ name = "ballerina-rosettacode"
 desc = "Tasks from Rosetta Code implemented in Ballerina"
 tags = ["Inactive"]
 links = [
-	{ name = "github.com/salif/ballerina-rosettacode", url = "https://github.com/salif/ballerina-rosettacode" },
-	{ name = "codeberg.org/salif/ballerina-rosettacode", url = "https://codeberg.org/salif/ballerina-rosettacode" },
+	{ name = "on github", url = "https://github.com/salif/ballerina-rosettacode" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/ballerina-rosettacode" },
 ]
 
 [[project]]
@@ -259,7 +258,7 @@ name = "projstats"
 desc = "Count source lines of code"
 tags = ["Archived"]
 links = [
-	{ name = "github.com/salif/projstats", url = "https://github.com/salif/projstats" },
+	{ name = "on github", url = "https://github.com/salif/projstats" },
 ]
 
 [[project]]
@@ -267,7 +266,7 @@ name = "TypingTest"
 desc = ""
 tags = ["Archived"]
 links = [
-	{ name = "github.com/salif/TypingTest", url = "https://github.com/salif/TypingTest" },
+	{ name = "on github", url = "https://github.com/salif/TypingTest" },
 ]
 
 [[project]]
@@ -275,7 +274,7 @@ name = "pdftros"
 desc = ""
 tags = ["Archived"]
 links = [
-	{ name = "github.com/salif/pdftros", url = "https://github.com/salif/pdftros" },
+	{ name = "on github", url = "https://github.com/salif/pdftros" },
 ]
 
 [[project]]
@@ -283,8 +282,8 @@ name = "maze"
 desc = ""
 tags = ["Archived"]
 links = [
-	{ name = "salif.github.io/maze", url = "https://salif.github.io/maze/" },
-	{ name = "github.com/salif/maze", url = "https://github.com/salif/maze" },
+	{ name = "web page", url = "https://salif.github.io/maze/" },
+	{ name = "on github", url = "https://github.com/salif/maze" },
 ]
 
 [[project]]
@@ -292,9 +291,9 @@ name = "colemak-ru"
 desc = "Russian (Colemak) keyboard layout"
 tags = ["Archived"]
 links = [
-	{ name = "salif.github.io/colemak-ru", url = "https://salif.github.io/colemak-ru/" },
-	{ name = "codeberg.org/salif/colemak-ru", url = "https://codeberg.org/salif/colemak-ru" },
-	{ name = "github.com/salif/colemak-ru", url = "https://github.com/salif/colemak-ru" },
+	{ name = "web page", url = "https://salif.github.io/colemak-ru/" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/colemak-ru" },
+	{ name = "on github", url = "https://github.com/salif/colemak-ru" },
 ]
 
 [[project]]
@@ -302,7 +301,7 @@ name = "esiromem"
 desc = "For memorizing things, using spaced repetition"
 tags = ["Concept"]
 links = [
-	{ name = "github.com/salif/esiromem", url = "https://github.com/salif/esiromem" },
+	{ name = "on github", url = "https://github.com/salif/esiromem" },
 ]
 
 [[project]]
@@ -310,8 +309,8 @@ name = "glance_printer_bal"
 desc = "Turn glance AST into a Ballerina source code"
 tags = ["Concept"]
 links = [
-	{ name = "codeberg.org/salif/glance_printer_bal", url = "https://codeberg.org/salif/glance_printer_bal" },
-	{ name = "github.com/salif/glance_printer_bal", url = "https://github.com/salif/glance_printer_bal" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/glance_printer_bal" },
+	{ name = "on github", url = "https://github.com/salif/glance_printer_bal" },
 ]
 
 [[project]]
@@ -319,6 +318,6 @@ name = "pvcure"
 desc = "Cipher"
 tags = ["Concept"]
 links = [
-	{ name = "salif.github.io/pvcure", url = "https://salif.github.io/pvcure/" },
-	{ name = "github.com/salif/pvcure", url = "https://github.com/salif/pvcure" },
+	{ name = "web page", url = "https://salif.github.io/pvcure/" },
+	{ name = "on github", url = "https://github.com/salif/pvcure" },
 ]
