@@ -1,5 +1,5 @@
 ---
-title: About the site
+title: About this site
 description: Information about this site
 weight: 10
 ---
