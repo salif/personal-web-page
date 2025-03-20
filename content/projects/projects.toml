@@ -20,7 +20,7 @@ links = [
 
 [[project]]
 name = "nemo_gleam"
-desc = "GUI extension for Gleam development"
+desc = "Graphical user interface for Gleam development"
 tags = ["Gleam"]
 links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/nemo_gleam" },
@@ -75,6 +75,25 @@ links = [
 ]
 
 [[project]]
+name = "linkita"
+desc = "A clean and elegant blog theme for Zola"
+tags = ["Zola"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/linkita/en/" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/linkita" },
+	{ name = "on github", url = "https://github.com/salif/linkita" },
+]
+
+[[project]]
+name = "zola-themes-collection"
+desc = "A curated directory of themes for Zola"
+tags = ["Zola"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/zola-themes-collection/" },
+	{ name = "on github", url = "https://github.com/salif/zola-themes-collection" },
+]
+
+[[project]]
 name = "gramati-fe-globasa"
 desc = "Translations of the Complete Globasa Grammar"
 tags = ["Language"]
@@ -91,7 +110,15 @@ tags = ["Language"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
     { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
-    { name = "on codeberg", url = "https://codeberg.org/salif/globasa-xwexi-pages" },
+]
+
+[[project]]
+name = "globasa-rechnik"
+desc = "Unofficial Globasa - Bulgarian dictionary"
+tags = ["Language"]
+links = [
+	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-rechnik" },
+	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/05.max-resurso.dict.default.bul.html" },
 ]
 
 [[project]]

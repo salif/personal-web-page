@@ -1,6 +1,6 @@
 ---
 title: Моите профили
-description: Списък с профилите ми
+description: Списък на профилите ми
 weight: 3
 ---
 
