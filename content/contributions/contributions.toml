@@ -83,24 +83,10 @@ links = [{ name = "localazy", url = "https://localazy.com/p/element-web" }]
 other = "5 gl tr iz"
 
 [[project]]
-name = "Fossify"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
-other = "4 gl tr ne"
-
-[[project]]
 name = "minimal-mistakes"
 desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/mmistakes/minimal-mistakes/commits/master/_data/ui-text.yml" }]
-other = "4 gl tr ne"
-
-[[project]]
-name = "PinkSea"
-desc = ""
-tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.ts" }]
 other = "4 gl tr ne"
 
 [[project]]
@@ -111,31 +97,10 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/keepass-
 other = "3 ng le iz"
 
 [[project]]
-name = "PeerTube"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.framasoft.org/languages/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
 name = "Tusky"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://weblate.tusky.app/projects/tusky/tusky/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Iceshrimp"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/languages/bg/iceshrimp/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Firefish"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
 other = "2 ng le ne"
 
 [[project]]
@@ -146,18 +111,32 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fedilab/
 other = "2 ng le ne"
 
 [[project]]
-name = "Kaiteki"
+name = "Fossify"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/kaiteki/-/bg/#history" }]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
 other = "2 ng le ne"
 
 [[project]]
-name = "Localazy"
+name = "Iceshrimp"
 desc = ""
-tags = ["bg"]
-links = [{ name = "localazy", url = "https://localazy.com/p/localazy-spa" }]
-other = "1 ng tr iz"
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/languages/bg/iceshrimp/#history" }]
+other = "2 ng le ne"
+
+[[project]]
+name = "Firefish"
+desc = ""
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
+other = "2 ng le ne"
+
+[[project]]
+name = "Kaiteki"
+desc = ""
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/kaiteki/-/bg/#history" }]
+other = "2 ng le ne"
 
 [[project]]
 name = "Mangane"
@@ -165,3 +144,10 @@ desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/BDX-town/Mangane/commits/master/app/soapbox/locales/bg.json" }]
 other = "1 ng tr iz"
+
+[[project]]
+name = "PinkSea"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.json" }]
+other = "0 ng tr ne"

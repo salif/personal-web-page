@@ -45,7 +45,6 @@ page_info = ["date_on_page", "date_updated_on_page", "reading_time_on_page", "au
 header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
 disable_default_favicon = true
 disable_javascript = false
-post_navigation = "enabled"
 use_cdn = false
 
 [extra.style]
