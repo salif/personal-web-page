@@ -1,4 +1,61 @@
 [[project]]
+name = "linkita"
+desc = "A clean and elegant blog theme for Zola"
+tags = ["Zola"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/linkita/en/" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/linkita" },
+	{ name = "on github", url = "https://github.com/salif/linkita" },
+]
+
+[[project]]
+name = "zola-themes-collection"
+desc = "A curated directory of themes for Zola"
+tags = ["Zola"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/zola-themes-collection/" },
+	{ name = "on github", url = "https://github.com/salif/zola-themes-collection" },
+]
+
+[[project]]
+name = "gramati-fe-globasa"
+desc = "Translations of the Complete Globasa Grammar"
+tags = ["Language"]
+links = [
+    { name = "web page", url = "https://salif.github.io/gramati-fe-globasa/" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/gramati-fe-globasa" },
+    { name = "on github", url = "https://github.com/salif/gramati-fe-globasa" },
+]
+
+[[project]]
+name = "globasa-xwexi-pages"
+desc = "Bulgarian translation of Globasa Lessons for Beginners"
+tags = ["Language"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
+    { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
+]
+
+[[project]]
+name = "globasa-rechnik"
+desc = "Unofficial Globasa - Bulgarian dictionary"
+tags = ["Language"]
+links = [
+	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-rechnik" },
+	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/05.max-resurso.dict.default.bul.html" },
+]
+
+[[project]]
+name = "alfabetoj"
+desc = "Esperanto alphabet converter"
+tags = ["Language"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/alfabetoj/" },
+    { name = "on github", url = "https://github.com/salif/alfabetoj" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/alfabetoj" },
+]
+
+[[project]]
 name = "morse-code-translator"
 desc = "Morse Code Translator"
 tags = ["Gleam"]
@@ -75,81 +132,6 @@ links = [
 ]
 
 [[project]]
-name = "linkita"
-desc = "A clean and elegant blog theme for Zola"
-tags = ["Zola"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/linkita/en/" },
-	{ name = "on codeberg", url = "https://codeberg.org/salif/linkita" },
-	{ name = "on github", url = "https://github.com/salif/linkita" },
-]
-
-[[project]]
-name = "zola-themes-collection"
-desc = "A curated directory of themes for Zola"
-tags = ["Zola"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/zola-themes-collection/" },
-	{ name = "on github", url = "https://github.com/salif/zola-themes-collection" },
-]
-
-[[project]]
-name = "gramati-fe-globasa"
-desc = "Translations of the Complete Globasa Grammar"
-tags = ["Language"]
-links = [
-    { name = "web page", url = "https://salif.github.io/gramati-fe-globasa/" },
-    { name = "on codeberg", url = "https://codeberg.org/salif/gramati-fe-globasa" },
-    { name = "on github", url = "https://github.com/salif/gramati-fe-globasa" },
-]
-
-[[project]]
-name = "globasa-xwexi-pages"
-desc = "Bulgarian translation of Globasa Lessons for Beginners"
-tags = ["Language"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
-    { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
-]
-
-[[project]]
-name = "globasa-rechnik"
-desc = "Unofficial Globasa - Bulgarian dictionary"
-tags = ["Language"]
-links = [
-	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-rechnik" },
-	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/05.max-resurso.dict.default.bul.html" },
-]
-
-[[project]]
-name = "tok-bul-dict"
-desc = "Toki Pona - Bulgarian dictionary"
-tags = ["Language"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/tok-bul-dict/" },
-    { name = "on github", url = "https://github.com/salif/tok-bul-dict" },
-    { name = "on codeberg", url = "https://codeberg.org/salif/tok-bul-dict" },
-]
-
-[[project]]
-name = "gleam-tour-bg"
-desc = "Научете Gleam във вашия браузър!"
-tags = ["Language"]
-links = [
-	{ name = "on github", url = "https://github.com/salif/gleam-tour-bg" },
-]
-
-[[project]]
-name = "alfabetoj"
-desc = "Esperanto alphabet converter"
-tags = ["Language"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/alfabetoj/" },
-    { name = "on github", url = "https://github.com/salif/alfabetoj" },
-    { name = "on codeberg", url = "https://codeberg.org/salif/alfabetoj" },
-]
-
-[[project]]
 name = "dotfiles"
 desc = "My dotfiles"
 tags = ["Linux"]
@@ -214,6 +196,24 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/shaw-eo/" },
     { name = "on codeberg", url = "https://codeberg.org/salif/shaw-eo" },
     { name = "on github", url = "https://github.com/salif/shaw-eo" },
+]
+
+[[project]]
+name = "tok-bul-dict"
+desc = "Toki Pona - Bulgarian dictionary"
+tags = ["Inactive"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/tok-bul-dict/" },
+    { name = "on github", url = "https://github.com/salif/tok-bul-dict" },
+    { name = "on codeberg", url = "https://codeberg.org/salif/tok-bul-dict" },
+]
+
+[[project]]
+name = "gleam-tour-bg"
+desc = "Научете Gleam във вашия браузър!"
+tags = ["Inactive"]
+links = [
+	{ name = "on github", url = "https://github.com/salif/gleam-tour-bg" },
 ]
 
 [[project]]
