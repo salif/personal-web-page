@@ -1,17 +1,19 @@
 ---
 title: Contact me
 description: Send me a message
-weight: 0
+path: email
 extra:
   math: true
 ---
 
-## Email me
+You can write to me in English or Bulgarian language by e-mail or Matrix.
+
+## Email
 
 - $\texttt{mail}\texttt{@}\texttt{salif.eu}$
 
 {{ my_public_key(summary="see my public key") }}
 
-## Chat (Matrix)
+## Matrix/Element
 
 - [@salif:mozilla.org](https://matrix.to/#/@salif:mozilla.org)

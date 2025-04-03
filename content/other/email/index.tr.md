@@ -1,10 +1,12 @@
 ---
 title: İletişim
 description: Benimle iletişime geçmek için
-weight: 0
+path: tr/email
 extra:
   math: true
 ---
+
+Bana e-posta veya Matrix aracılığıyla İngilizce veya Bulgarca yazabilirsiniz.
 
 ## E-posta
 

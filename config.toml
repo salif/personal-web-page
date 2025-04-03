@@ -5,7 +5,7 @@ default_language = "en"
 compile_sass = false
 minify_html = false
 
-[languages.en]
+#[languages.en]
 title = "Salif's site"
 description = "My name is Salif Mehmed and this is my personal website. See a list of my coding projects and social profiles and how to contact me"
 generate_feeds = false
@@ -43,8 +43,8 @@ mermaid = false
 comment = false
 page_info = ["date_on_page", "date_updated_on_page", "reading_time_on_page", "authors_on_page"]
 header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
+invert_page_navigation = false
 disable_default_favicon = true
-disable_javascript = false
 use_cdn = false
 
 [extra.style]
