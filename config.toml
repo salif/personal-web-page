@@ -41,6 +41,7 @@ smart_punctuation = false
 math = false
 mermaid = false
 comment = false
+relative_urls = true
 page_info = ["date_on_page", "date_updated_on_page", "reading_time_on_page", "authors_on_page"]
 header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
 invert_page_navigation = false

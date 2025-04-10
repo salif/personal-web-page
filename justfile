@@ -8,6 +8,7 @@ _:
 
 update-theme:
 	git submodule update --remote --merge themes/linkita
+	git submodule summary
 	zola check --skip-external-links && git add themes/linkita
 
 serve:
