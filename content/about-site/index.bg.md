@@ -5,7 +5,7 @@ weight: 10
 ---
 
 Сайтът:
-- е достъпен [на английски език](https://salif.eu/), [на български](https://salif.eu/bg/) и [на есперанто](https://salif.eu/eo/).
+- е достъпен [на английски език](@/_index.md), [на български](@/_index.bg.md) и [на есперанто](@/_index.eo.md).
 - е с отворен код, достъпен [в Codeberg](https://codeberg.org/salif/personal-web-page).
 - е направен с генератор на статични сайтове на име [Зола](https://www.getzola.org/).
 - използва поддържана от мен тема, наречена [Линкита](https://codeberg.org/salif/linkita).

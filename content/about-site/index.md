@@ -5,7 +5,7 @@ weight: 10
 ---
 
 The site:
-- is available in [English](https://salif.eu/), [Bulgarian](https://salif.eu/bg/) and [Esperanto](https://salif.eu/eo/).
+- is available in [English](@/_index.md), [Bulgarian](@/_index.bg.md) and [Esperanto](@/_index.eo.md).
 - is open source [on Codeberg](https://codeberg.org/salif/personal-web-page).
 - is made with a static site generator named [Zola](https://www.getzola.org/).
 - uses a theme maintained by me, called [Linkita](https://codeberg.org/salif/linkita).

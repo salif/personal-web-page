@@ -5,7 +5,7 @@ weight: 10
 ---
 
 La retejo:
-- estas havebla en [la angla](https://salif.eu/), [la bulgara](https://salif.eu/bg/), kaj [Esperanto](https://salif.eu/eo/).
+- estas havebla en [la angla](@/_index.md), [la bulgara](@/_index.bg.md), kaj [Esperanto](@/_index.eo.md).
 - estas malfermkoda [en Codeberg](https://codeberg.org/salif/personal-web-page).
 - estas farita per statika reteja generatoro nomata [Zola](https://www.getzola.org/).
 - uzas temon prizorgatan de mi, nomatan [Linkita](https://codeberg.org/salif/linkita).

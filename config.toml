@@ -30,8 +30,6 @@ generate_feeds = false
 build_search_index = false
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 render_emoji = false
 external_links_target_blank = true
@@ -42,7 +40,8 @@ math = false
 mermaid = false
 comment = false
 relative_urls = true
-page_info = ["date_on_page", "date_updated_on_page", "reading_time_on_page", "authors_on_page"]
+page_info = [{ when="date" }, { when="reading_time" }]
+page_info_on_paginator = []
 header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
 invert_page_navigation = false
 disable_default_favicon = true
@@ -50,13 +49,13 @@ use_cdn = false
 
 [extra.style]
 # The custom background color
-bg_color = "#e6e9ef"
+bg_color = "#ffffff"
 # The custom background color in dark mode
 bg_dark_color = "#161e27"
 # Enable header blur
 header_blur = false
 # The custom header color, only available when `header_blur` is false
-header_color = "#e6e9ef"
+header_color = "#ffffff"
 # The custom header color in dark mode, only available when `header_blur` is false
 header_dark_color = "#161e27"
 
@@ -107,22 +106,18 @@ url = "https://bsky.brid.gy/ap/did:plc:3ebgy675tgwzqudufqvifpxv"
 [extra.languages.en]
 locale = "en_US"
 date_format = "%x"
-date_format_archive = "%m-%d"
 
 [extra.languages.bg]
 locale = "bg_BG"
 date_format = "%x"
-date_format_archive = "%d.%m"
 
 [extra.languages.eo]
 locale = "eo"
 date_format = "%x"
-date_format_archive = "%d.%m"
 
 [extra.languages.tr]
 locale = "tr_TR"
 date_format = "%x"
-date_format_archive = "%d.%m"
 
 [extra.footer]
 since = 2024
