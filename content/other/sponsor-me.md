@@ -1,10 +1,10 @@
 ---
 title: Sponsor me
-description: Sponsor me
 path: sponsor-me
 ---
 
-I'm not sure if all of these work.
+Support the development of my open source projects by donating.
+<!-- more -->
 
 ## PayPal
 
