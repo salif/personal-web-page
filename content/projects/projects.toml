@@ -1,5 +1,5 @@
 [[project]]
-name = "linkita"
+name = "Linkita"
 desc = "A clean and elegant blog theme for Zola"
 tags = ["Zola"]
 links = [
@@ -9,7 +9,7 @@ links = [
 ]
 
 [[project]]
-name = "zola-themes-collection"
+name = "Zola Themes Collection"
 desc = "A curated directory of themes for Zola"
 tags = ["Zola"]
 links = [
@@ -18,7 +18,7 @@ links = [
 ]
 
 [[project]]
-name = "gramati-fe-globasa"
+name = "Gramati fe Globasa"
 desc = "Translations of the Complete Globasa Grammar"
 tags = ["Language"]
 links = [
@@ -28,12 +28,22 @@ links = [
 ]
 
 [[project]]
-name = "globasa-xwexi-pages"
+name = "Globasa-Xwexi"
 desc = "Bulgarian translation of Globasa Lessons for Beginners"
 tags = ["Language"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
     { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
+]
+
+[[project]]
+name = "Globasa-Jaribas"
+desc = "Experimental Globasa translator"
+tags = ["Language"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/globasa-jaribas/" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-jaribas" },
+	{ name = "on github", url = "https://github.com/salif/globasa-jaribas" },
 ]
 
 [[project]]
@@ -56,8 +66,8 @@ links = [
 ]
 
 [[project]]
-name = "morse-code-translator"
-desc = "Morse Code Translator"
+name = "Morse Code Translator"
+desc = "Morse Code Translator written in Gleam"
 tags = ["Gleam"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/morse-code-translator/" },

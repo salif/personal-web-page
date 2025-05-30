@@ -13,6 +13,13 @@ links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/languages/bg/
 other = "7 gl le iz"
 
 [[project]]
+name = "Mbin"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/mbin/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
 name = "Thumb-Key"
 desc = ""
 tags = ["bg"]
@@ -27,10 +34,10 @@ links = [{ name = "weblate", url = "https://weblate.xylight.dev/projects/photon/
 other = "7 gl le iz"
 
 [[project]]
-name = "Mbin"
+name = "LibreTranslate"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/mbin/-/bg/#history" }]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/libretranslate/-/bg/#history" }]
 other = "6 gl le ne"
 
 [[project]]
@@ -38,13 +45,6 @@ name = "TOKIMEKI"
 desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/spuithori/tokimekibluesky/commits/master/src/lib/i18n/locales/bg.json" }]
-other = "5 gl tr iz"
-
-[[project]]
-name = "Jerboa"
-desc = ""
-tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/dessalines/jerboa/commits/main/app/src/main/res/values-bg" }]
 other = "5 gl tr iz"
 
 [[project]]
@@ -60,13 +60,6 @@ desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/sddm/sddm/commits/develop/data/translations/bg.ts" }]
 other = "5 gl tr iz"
-
-[[project]]
-name = "LibreTranslate"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/libretranslate/-/bg/#history" }]
-other = "6 gl le ne"
 
 [[project]]
 name = "Element X"
@@ -108,13 +101,6 @@ name = "Fedilab"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fedilab/-/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Fossify"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fossify/-/bg/#history" }]
 other = "2 ng le ne"
 
 [[project]]
