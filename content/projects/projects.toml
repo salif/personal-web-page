@@ -7,6 +7,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/linkita" },
 	{ name = "on github", url = "https://github.com/salif/linkita" },
 ]
+[project.languages.bg]
+tags = ["Зола"]
+desc = "Изчистена и елегантна блог тема за Зола"
 
 [[project]]
 name = "Zola Themes Collection"
@@ -16,6 +19,9 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/zola-themes-collection/" },
 	{ name = "on github", url = "https://github.com/salif/zola-themes-collection" },
 ]
+[project.languages.bg]
+tags = ["Зола"]
+desc = "Директория с подбрани теми за Зола"
 
 [[project]]
 name = "Gramati fe Globasa"
@@ -26,6 +32,9 @@ links = [
     { name = "on codeberg", url = "https://codeberg.org/salif/gramati-fe-globasa" },
     { name = "on github", url = "https://github.com/salif/gramati-fe-globasa" },
 ]
+[project.languages.bg]
+tags = ["Език"]
+desc = "Преводи на пълната граматика на глобаса"
 
 [[project]]
 name = "Globasa-Xwexi"
@@ -35,6 +44,9 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/" },
     { name = "on github", url = "https://github.com/salif/globasa-xwexi-pages" },
 ]
+[project.languages.bg]
+tags = ["Език"]
+desc = "Български превод на уроците по глобаса за начинаещи"
 
 [[project]]
 name = "Globasa-Jaribas"
@@ -45,6 +57,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-jaribas" },
 	{ name = "on github", url = "https://github.com/salif/globasa-jaribas" },
 ]
+[project.languages.bg]
+tags = ["Език"]
+desc = "Експериментален преводач за глобаса"
 
 [[project]]
 name = "globasa-rechnik"
@@ -54,6 +69,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/globasa-rechnik" },
 	{ name = "web page", url = "https://salif.github.io/globasa-xwexi-pages/05.max-resurso.dict.default.bul.html" },
 ]
+[project.languages.bg]
+tags = ["Език"]
+desc = "Неофициален глобаса - български речник"
 
 [[project]]
 name = "alfabetoj"
@@ -64,6 +82,9 @@ links = [
     { name = "on github", url = "https://github.com/salif/alfabetoj" },
     { name = "on codeberg", url = "https://codeberg.org/salif/alfabetoj" },
 ]
+[project.languages.bg]
+tags = ["Език"]
+desc = "Конвертор между азбуки за есперанто"
 
 [[project]]
 name = "Morse Code Translator"
@@ -74,6 +95,8 @@ links = [
     { name = "on codeberg", url = "https://codeberg.org/salif/morse-code-translator" },
 	{ name = "on github", url = "https://github.com/salif/morse-code-translator" },
 ]
+[project.languages.bg]
+desc = "Преводач на морзов код"
 
 [[project]]
 name = "gu"
@@ -84,6 +107,8 @@ links = [
     { name = "on codeberg", url = "https://codeberg.org/salif/gu" },
 	{ name = "on github", url = "https://github.com/salif/gu" },
 ]
+[project.languages.bg]
+desc = "Zenity GUI dialogs Gleam wrapper"
 
 [[project]]
 name = "nemo_gleam"
@@ -93,6 +118,8 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/nemo_gleam" },
 	{ name = "on github", url = "https://github.com/salif/nemo_gleam" },
 ]
+[project.languages.bg]
+desc = "Графичен интерфейс за управление и разработка за Gleam"
 
 [[project]]
 name = "aham"
@@ -103,6 +130,8 @@ links = [
     { name = "on codeberg", url = "https://codeberg.org/salif/aham" },
     { name = "on github", url = "https://github.com/salif/aham" },
 ]
+[project.languages.bg]
+desc = "За създаване на многоезични приложения с Gleam"
 
 [[project]]
 name = "mon"
@@ -112,6 +141,8 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/mon" },
 	{ name = "on github", url = "https://github.com/salif/mon" },
 ]
+[project.languages.bg]
+desc = "Библиотека за създаване на тестета"
 
 [[project]]
 name = "gleam-open-color"
@@ -121,6 +152,8 @@ links = [
 	{ name = "on hex.pm", url = "https://hex.pm/packages/open_color" },
 	{ name = "on github", url = "https://github.com/salif/gleam-open-color" },
 ]
+[project.languages.bg]
+desc = "Gleam implementation of the Open Color scheme"
 
 [[project]]
 name = "sinhrz"
@@ -131,6 +164,9 @@ links = [
     { name = "on github", url = "https://github.com/salif/sinhrz" },
     { name = "on codeberg", url = "https://codeberg.org/salif/sinhrz" },
 ]
+[project.languages.bg]
+tags = ["Джава"]
+desc = "Прост инструмент за синхронизация на папки"
 
 [[project]]
 name = "Tetris"
@@ -140,6 +176,9 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/Tetris/" },
     { name = "on github", url = "https://github.com/salif/Tetris" },
 ]
+[project.languages.bg]
+tags = ["Джава"]
+desc = "Забавен и прост оригинален тетрис"
 
 [[project]]
 name = "dotfiles"
@@ -150,6 +189,9 @@ links = [
     { name = "on codeberg", url = "https://codeberg.org/salif/dotfiles" },
     { name = "on github", url = "https://github.com/salif/dotfiles" },
 ]
+[project.languages.bg]
+tags = ["Линукс"]
+desc = "Моите dotfiles"
 
 [[project]]
 name = "cli-games"
@@ -159,6 +201,9 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/cli-games/" },
 	{ name = "on github", url = "https://github.com/salif/cli-games" },
 ]
+[project.languages.bg]
+tags = ["Линукс"]
+desc = "Игри в терминала"
 
 [[project]]
 name = "lemmy-onion-service"
@@ -167,46 +212,61 @@ tags = ["Linux"]
 links = [
     { name = "on github", url = "https://github.com/salif/lemmy-onion-service" },
 ]
+[project.languages.bg]
+tags = ["Линукс"]
+desc = "Self-hosted Lemmy using the Tor network"
 
 [[project]]
 name = "colemak-eo"
 desc = "Esperanto (Colemak) keyboard layout"
-tags = ["KeyboardLayouts"]
+tags = ["Keyboard Layouts"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/colemak-eo/" },
     { name = "on codeberg", url = "https://codeberg.org/salif/colemak-eo" },
     { name = "on github", url = "https://github.com/salif/colemak-eo" },
 ]
+[project.languages.bg]
+tags = ["Клавиатурни подредби"]
+desc = "Клавиатурна подредба за есперанто (Colemak)"
 
 [[project]]
 name = "colemak-bg"
 desc = "Bulgarian (Colemak) keyboard layout"
-tags = ["KeyboardLayouts"]
+tags = ["Keyboard Layouts"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/colemak-bg/" },
     { name = "on codeberg", url = "https://codeberg.org/salif/colemak-bg" },
     { name = "on github", url = "https://github.com/salif/colemak-bg" },
 ]
+[project.languages.bg]
+tags = ["Клавиатурни подредби"]
+desc = "Клавиатурна подредба за български (Colemak)"
 
 [[project]]
 name = "colemak-tr"
 desc = "Turkish (Colemak) keyboard layout"
-tags = ["KeyboardLayouts"]
+tags = ["Keyboard Layouts"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/colemak-tr/" },
     { name = "on codeberg", url = "https://codeberg.org/salif/colemak-tr" },
     { name = "on github", url = "https://github.com/salif/colemak-tr" },
 ]
+[project.languages.bg]
+tags = ["Клавиатурни подредби"]
+desc = "Клавиатурна подредба за турски (Colemak)"
 
 [[project]]
 name = "shaw-eo"
 desc = "Esperanto (Shavian) keyboard layout"
-tags = ["KeyboardLayouts"]
+tags = ["Keyboard Layouts"]
 links = [
 	{ name = "web page", url = "https://salif.github.io/shaw-eo/" },
     { name = "on codeberg", url = "https://codeberg.org/salif/shaw-eo" },
     { name = "on github", url = "https://github.com/salif/shaw-eo" },
 ]
+[project.languages.bg]
+tags = ["Клавиатурни подредби"]
+desc = "Шавианска клавиатурна подредба за есперанто"
 
 [[project]]
 name = "tok-bul-dict"
@@ -217,6 +277,9 @@ links = [
     { name = "on github", url = "https://github.com/salif/tok-bul-dict" },
     { name = "on codeberg", url = "https://codeberg.org/salif/tok-bul-dict" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Неофициален токи пона - български речник"
 
 [[project]]
 name = "gleam-tour-bg"
@@ -225,6 +288,9 @@ tags = ["Inactive"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/gleam-tour-bg" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Научете Gleam във вашия браузър!"
 
 [[project]]
 name = "QA"
@@ -235,6 +301,9 @@ links = [
     { name = "on github", url = "https://github.com/salif/QA" },
     { name = "on codeberg", url = "https://codeberg.org/salif/QA" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Сайт за въпроси и отговори (Q&A)"
 
 [[project]]
 name = "hasher"
@@ -245,6 +314,9 @@ links = [
     { name = "on github", url = "https://github.com/salif/hasher" },
     { name = "on codeberg", url = "https://codeberg.org/salif/hasher" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Библиотека и инструмент за команден ред за хеширане на пароли"
 
 [[project]]
 name = "komiki-mono"
@@ -253,14 +325,20 @@ tags = ["Inactive"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/komiki-mono" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Шрифт Comic Mono с лигатури"
 
 [[project]]
 name = "mbin-custom-css"
-desc = "Mbin/Kbin Custom CSS Themes"
+desc = "Mbin Custom CSS Themes"
 tags = ["Inactive"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/mbin-custom-css" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Персонализирани CSS теми за Mbin"
 
 [[project]]
 name = "hide-text"
@@ -271,6 +349,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/hide-text" },
 	{ name = "on github", url = "https://github.com/salif/hide-text" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "За скриване на текстово съобщение в друго текстово съобщение"
 
 [[project]]
 name = "chat"
@@ -280,6 +361,9 @@ links = [
 	{ name = "on github", url = "https://github.com/salif/chat" },
 	{ name = "on codeberg", url = "https://codeberg.org/salif/chat" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Дизайн на чат с PHP/SQLite"
 
 [[project]]
 name = "ballerina-rosettacode"
@@ -289,6 +373,9 @@ links = [
 	{ name = "on github", url = "https://github.com/salif/ballerina-rosettacode" },
 	{ name = "on codeberg", url = "https://codeberg.org/salif/ballerina-rosettacode" },
 ]
+[project.languages.bg]
+tags = ["Неактивни"]
+desc = "Задачи от Rosetta Code, реализирани на Ballerina"
 
 [[project]]
 name = "projstats"
@@ -297,6 +384,9 @@ tags = ["Archived"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/projstats" },
 ]
+[project.languages.bg]
+tags = ["Архивирани"]
+desc = "За преброяване на редовете на изходния код"
 
 [[project]]
 name = "TypingTest"
@@ -305,6 +395,9 @@ tags = ["Archived"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/TypingTest" },
 ]
+[project.languages.bg]
+tags = ["Архивирани"]
+desc = ""
 
 [[project]]
 name = "pdftros"
@@ -313,6 +406,9 @@ tags = ["Archived"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/pdftros" },
 ]
+[project.languages.bg]
+tags = ["Архивирани"]
+desc = ""
 
 [[project]]
 name = "maze"
@@ -322,6 +418,9 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/maze/" },
 	{ name = "on github", url = "https://github.com/salif/maze" },
 ]
+[project.languages.bg]
+tags = ["Архивирани"]
+desc = ""
 
 [[project]]
 name = "colemak-ru"
@@ -332,6 +431,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/colemak-ru" },
 	{ name = "on github", url = "https://github.com/salif/colemak-ru" },
 ]
+[project.languages.bg]
+tags = ["Архивирани"]
+desc = "Клавиатурна подредба за руски (Colemak)"
 
 [[project]]
 name = "esiromem"
@@ -340,6 +442,9 @@ tags = ["Concept"]
 links = [
 	{ name = "on github", url = "https://github.com/salif/esiromem" },
 ]
+[project.languages.bg]
+tags = ["Концепция"]
+desc = "За запаметяване на неща, използвайки метода на интервално повторение"
 
 [[project]]
 name = "glance_printer_bal"
@@ -349,6 +454,9 @@ links = [
 	{ name = "on codeberg", url = "https://codeberg.org/salif/glance_printer_bal" },
 	{ name = "on github", url = "https://github.com/salif/glance_printer_bal" },
 ]
+[project.languages.bg]
+tags = ["Концепция"]
+desc = "Превръщане на glance AST в изходен код на Ballerina"
 
 [[project]]
 name = "pvcure"
@@ -358,3 +466,6 @@ links = [
 	{ name = "web page", url = "https://salif.github.io/pvcure/" },
 	{ name = "on github", url = "https://github.com/salif/pvcure" },
 ]
+[project.languages.bg]
+tags = ["Концепция"]
+desc = "Шифър"
