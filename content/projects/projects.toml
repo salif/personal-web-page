@@ -3,7 +3,7 @@ name = "Linkita"
 desc = "A clean and elegant blog theme for Zola"
 tags = ["Zola"]
 links = [
-	{ name = "web page", url = "https://salif.github.io/linkita/en/" },
+	{ name = "web page", url = "https://salif.github.io/linkita/" },
 	{ name = "on codeberg", url = "https://codeberg.org/salif/linkita" },
 	{ name = "on github", url = "https://github.com/salif/linkita" },
 ]
@@ -22,6 +22,19 @@ links = [
 [project.languages.bg]
 tags = ["Зола"]
 desc = "Директория с подбрани теми за Зола"
+
+[[project]]
+name = "Tukan"
+desc = "A Zola theme inspired from Toucan"
+tags = ["Zola"]
+links = [
+	{ name = "web page", url = "https://salif.github.io/zola-themes-collection/demo/tukan/" },
+	{ name = "on codeberg", url = "https://codeberg.org/salif/tukan" },
+	{ name = "on github", url = "https://github.com/salif/tukan" },
+]
+[project.languages.bg]
+tags = ["Зола"]
+desc = "Блог тема за Зола, вдъхновена от Toucan"
 
 [[project]]
 name = "Gramati fe Globasa"
