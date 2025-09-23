@@ -9,7 +9,7 @@ other = "7 gl le iz"
 name = "Lemmy"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/languages/bg/lemmy/#history" }]
+links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/projects/lemmy/-/bg/#history" }]
 other = "7 gl le iz"
 
 [[project]]
@@ -93,7 +93,7 @@ other = "3 ng le iz"
 name = "Tusky"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.tusky.app/projects/tusky/tusky/bg/#history" }]
+links = [{ name = "weblate", url = "https://weblate.tusky.app/projects/tusky/-/bg/#history" }]
 other = "2 ng le ne"
 
 [[project]]
@@ -104,10 +104,17 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fedilab/
 other = "2 ng le ne"
 
 [[project]]
+name = "pl-fe"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/pl-fe/-/bg/#history" }]
+other = "2 ng le ne"
+
+[[project]]
 name = "Iceshrimp"
 desc = ""
 tags = ["bg", "stopped"]
-links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/languages/bg/iceshrimp/#history" }]
+links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/projects/iceshrimp/-/bg/#history" }]
 other = "2 ng le ne"
 
 [[project]]

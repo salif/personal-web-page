@@ -14,9 +14,9 @@
 
 [Docker @salifm](https://hub.docker.com/u/salifm)
 
-[Ballerina Central @ballet](https://central.ballerina.io/ballet)
-
 ---
+
+[Bluesky @yen.salif.eu](https://bsky.app/profile/did:plc:eirne2vlczwdejeegserrfyr)
 
 [LinkedIn @salifm](https://www.linkedin.com/in/salifm)
 
@@ -24,23 +24,11 @@
 
 [Disqus @salifm](https://disqus.com/by/salifm)
 
-[Bluesky @bg.salif.eu](https://bsky.app/profile/did:plc:3ebgy675tgwzqudufqvifpxv)
-
 ---
 
 [Hosted Weblate @13](https://hosted.weblate.org/user/13)
 
 [Codeberg Translate @salif](https://translate.codeberg.org/user/salif)
-
-[Join-Lemmy Weblate @salif](https://weblate.join-lemmy.org/user/salif)
-
-[Tusky Weblate @13](https://weblate.tusky.app/user/13)
-
-[Iceshrimp Translations @13](https://translate.iceshrimp.dev/user/13)
-
-[Framasoft Weblate @salif](https://weblate.framasoft.org/user/salif)
-
-[Xylight Weblate @salif](https://weblate.xylight.dev/user/salif)
 
 [Crowdin @salifm](https://crowdin.com/profile/salifm)
 

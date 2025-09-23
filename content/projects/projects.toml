@@ -173,7 +173,6 @@ name = "sinhrz"
 desc = "A simple folder synchronization tool"
 tags = ["Java"]
 links = [
-	{ name = "web page", url = "https://salif.github.io/sinhrz/" },
     { name = "on github", url = "https://github.com/salif/sinhrz" },
     { name = "on codeberg", url = "https://codeberg.org/salif/sinhrz" },
 ]
@@ -205,18 +204,6 @@ links = [
 [project.languages.bg]
 tags = ["Линукс"]
 desc = "Моите dotfiles"
-
-[[project]]
-name = "cli-games"
-desc = "Games in the terminal"
-tags = ["Linux"]
-links = [
-	{ name = "web page", url = "https://salif.github.io/cli-games/" },
-	{ name = "on github", url = "https://github.com/salif/cli-games" },
-]
-[project.languages.bg]
-tags = ["Линукс"]
-desc = "Игри в терминала"
 
 [[project]]
 name = "lemmy-onion-service"
@@ -310,7 +297,6 @@ name = "QA"
 desc = "Question and answer (Q&A) site"
 tags = ["Inactive"]
 links = [
-	{ name = "web page", url = "https://salif.github.io/QA/" },
     { name = "on github", url = "https://github.com/salif/QA" },
     { name = "on codeberg", url = "https://codeberg.org/salif/QA" },
 ]
@@ -323,7 +309,6 @@ name = "hasher"
 desc = "Library and cli tool for password hashing"
 tags = ["Inactive"]
 links = [
-	{ name = "web page", url = "https://salif.github.io/hasher/" },
     { name = "on github", url = "https://github.com/salif/hasher" },
     { name = "on codeberg", url = "https://codeberg.org/salif/hasher" },
 ]
@@ -440,7 +425,6 @@ name = "colemak-ru"
 desc = "Russian (Colemak) keyboard layout"
 tags = ["Archived"]
 links = [
-	{ name = "web page", url = "https://salif.github.io/colemak-ru/" },
 	{ name = "on codeberg", url = "https://codeberg.org/salif/colemak-ru" },
 	{ name = "on github", url = "https://github.com/salif/colemak-ru" },
 ]

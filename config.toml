@@ -68,7 +68,7 @@ bio = "Welcome to my personal website"
 email = "mail@salif.eu"
 url = "https://salif.eu"
 social = [
-	{ name = "bluesky", url = "https://bsky.app/profile/did:plc:3ebgy675tgwzqudufqvifpxv" },
+	{ name = "bluesky", url = "https://bsky.app/profile/did:plc:eirne2vlczwdejeegserrfyr" },
 	{ name = "github", url = "https://github.com/salif" },
 	{ name = "codeberg", url = "https://codeberg.org/salif" },
 	{ name = "element", url = "https://matrix.to/#/@salif:mozilla.org" },
@@ -99,9 +99,8 @@ username = "salif"
 gender = "male"
 
 [extra.profiles.salif.open_graph.fediverse_creator]
-handle = "bg.salif.eu"
-domain = "bsky.brid.gy"
-url = "https://bsky.brid.gy/ap/did:plc:3ebgy675tgwzqudufqvifpxv"
+handle = "13"
+domain = "sharkey.world"
 
 [extra.languages.en]
 locale = "en_US"
