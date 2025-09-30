@@ -9,7 +9,6 @@ weight: 10
 - е с отворен код, достъпен [в Codeberg](https://codeberg.org/salif/personal-web-page).
 - е направен с генератор на статични сайтове на име [Зола](https://www.getzola.org/).
 - използва поддържана от мен тема, наречена [Линкита](https://codeberg.org/salif/linkita).
-- използва [Vercel Web Analytics](https://vercel.com/docs/analytics) за броене на посещенията на сайта.
 - поддържа светъл и тъмен [режим][mode_toggle], с опция за [нулиране][mode_reset].
 
 [mode_toggle]:javascript:(()=>{window.linkita.toggleDarkMode();})();
