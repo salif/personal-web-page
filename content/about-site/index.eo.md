@@ -6,7 +6,7 @@ weight: 10
 
 La retejo:
 - estas havebla en [la angla](@/_index.md), [la bulgara](@/_index.bg.md), kaj [Esperanto](@/_index.eo.md).
-- estas malfermkoda [en Codeberg](https://codeberg.org/salif/personal-web-page).
+- estas malfermkoda en [Codeberg](https://codeberg.org/salif/personal-web-page) kaj gastigita per [statichost.eu](https://www.statichost.eu/).
 - estas farita per statika reteja generatoro nomata [Zola](https://www.getzola.org/).
 - uzas temon prizorgatan de mi, nomatan [Linkita](https://codeberg.org/salif/linkita).
 - subtenas helan kaj malhelan [modo][mode_toggle], kun eblo por [restarigo][mode_reset].
