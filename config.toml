@@ -60,9 +60,6 @@ header_color = "#ffffff"
 header_dark_color = "#161e27"
 
 [extra.profiles.salif]
-avatar_url = "ico/avatar.png"
-avatar_alt = "Animated selfie of me"
-avatar_invert = false
 name = "Salif Mehmed"
 bio = "Welcome to my personal website"
 email = "mail@salif.eu"

@@ -11,5 +11,5 @@ La retejo:
 - uzas temon prizorgatan de mi, nomatan [Linkita](https://codeberg.org/salif/linkita).
 - subtenas helan kaj malhelan [modo][mode_toggle], kun eblo por [restarigo][mode_reset].
 
-[mode_toggle]:javascript:(()=>{window.linkita.toggleDarkMode();})();
-[mode_reset]:javascript:(()=>{window.linkita.resetDarkMode();})();
+[mode_toggle]:javascript:(()=>{window.zolaTheme.color.toggle();})();
+[mode_reset]:javascript:(()=>{window.zolaTheme.color.reset();})();

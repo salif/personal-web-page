@@ -11,5 +11,5 @@ weight: 10
 - използва поддържана от мен тема, наречена [Линкита](https://codeberg.org/salif/linkita).
 - поддържа светъл и тъмен [режим][mode_toggle], с опция за [нулиране][mode_reset].
 
-[mode_toggle]:javascript:(()=>{window.linkita.toggleDarkMode();})();
-[mode_reset]:javascript:(()=>{window.linkita.resetDarkMode();})();
+[mode_toggle]:javascript:(()=>{window.zolaTheme.color.toggle();})();
+[mode_reset]:javascript:(()=>{window.zolaTheme.color.reset();})();

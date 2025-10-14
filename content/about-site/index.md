@@ -11,5 +11,5 @@ The site:
 - uses a site theme maintained by me, called [Linkita](https://codeberg.org/salif/linkita).
 - supports light and dark [mode][mode_toggle], with an option to [reset][mode_reset].
 
-[mode_toggle]:javascript:(()=>{window.linkita.toggleDarkMode();})();
-[mode_reset]:javascript:(()=>{window.linkita.resetDarkMode();})();
+[mode_toggle]:javascript:(()=>{window.zolaTheme.color.toggle();})();
+[mode_reset]:javascript:(()=>{window.zolaTheme.color.reset();})();
