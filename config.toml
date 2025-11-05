@@ -40,9 +40,10 @@ math = false
 mermaid = false
 comment = false
 relative_urls = true
+menu_i18n = true
 page_info = [{ when="date" }, { when="reading_time" }]
 page_info_on_paginator = []
-header_buttons = ["home_button", "theme_button", "search_button", "translations_button"]
+header_buttons = ["home_button", "theme_select", "search_button", "translations_select"]
 invert_page_navigation = false
 disable_default_favicon = false
 use_cdn = false
