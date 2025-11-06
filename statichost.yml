@@ -1,4 +1,2 @@
-image: ghcr.io/getzola/zola:v0.21.0
-command: build
-public: public
-image_entrypoint: true
+ssg: zola
+version: 0.21.0
