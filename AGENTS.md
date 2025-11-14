@@ -51,33 +51,22 @@ This is a personal website built with [Zola](https://www.getzola.org/), a fast s
 ### Important Settings (config.toml)
 - Base URL: `https://salif.eu`
 - Theme: `linkita`
-- Search enabled for English only
 - External links open in new tab
 - Relative URLs enabled for better portability
-- Custom color scheme (light/dark mode support)
-
-### Profile Information
-Owner: Salif Mehmed
-- GitHub: https://github.com/salif
-- Codeberg: https://codeberg.org/salif
 
 ## Common Tasks
 
 ### Development Commands
 
 ```bash
-# Serve locally with live reload
-just serve
-# or: zola serve
-
-# Update the theme submodule
-just update-theme
-
 # Build the site
 zola build
 
 # Check for errors
 zola check --skip-external-links
+
+# Serve locally with live reload
+zola serve
 ```
 
 ### Content Management
@@ -85,12 +74,12 @@ zola check --skip-external-links
 **Adding new content:**
 1. Create `.md` files in appropriate `content/` subdirectory
 2. Add frontmatter with `title`, `date`, and other metadata
-3. For multilingual content, create `filename.LANG.md` variants (e.g., `post.bg.md`, `post.eo.md`)
+3. For multilingual content, create `filename/index.LANG.md` variants (e.g., `post/index.bg.md`, `post/index.eo.md`)
 
 **Content file naming:**
 - `_index.md` - Section index page
-- `page-name.md` - Regular page
-- `page-name.LANG.md` - Translated version
+- `page-name/index.md` - Regular page
+- `page-name/index.LANG.md` - Translated version
 
 ### Theme Customization
 
@@ -111,18 +100,18 @@ The `linkita` theme is included as a git submodule. To customize:
 
 2. **Configuration Changes:**
    - Validate TOML syntax before committing
-   - Test with `zola check` after changes
-   - Preserve color scheme and styling consistency
+   - Test with `zola check --skip-external-links` after changes
+   - Preserve styling consistency
    - Respect the multilingual setup
 
 3. **Theme Updates:**
-   - Use `just update-theme` to update the submodule
+   - Use `git submodule update --remote themes/linkita` to update the submodule
    - Don't modify theme files directly in `themes/linkita/`
    - Create overrides in project root instead
 
 4. **Build & Test:**
    - Run `zola check --skip-external-links` to validate
-   - Test locally with `zola serve` when possible
+   - Test locally with `zola build` when possible
    - Check all language variants work correctly
 
 ### Code Style
@@ -130,7 +119,7 @@ The `linkita` theme is included as a git submodule. To customize:
 - **TOML:** Use consistent indentation and spacing
 - **Markdown:** Follow standard Markdown conventions
 - **Justfile:** Maintain existing recipe structure
-- **Commit Messages:** English or Bulgarian are both acceptable
+- **Commit Messages:** Bulgarian or English are both acceptable
 
 ### Important Notes
 
@@ -138,7 +127,6 @@ The `linkita` theme is included as a git submodule. To customize:
 - **Do not** modify the theme submodule directly
 - **Do preserve** multilingual content parity where applicable
 - **Do test** changes across all language variants when updating shared components
-- **External links** should be relevant and working (checked during build)
 
 ## Deployment
 
@@ -172,10 +160,17 @@ zola check --skip-external-links
 
 ## Resources
 
-- [Zola Documentation](https://www.getzola.org/documentation/)
+### On GitHub
+- [Zola Documentation](https://github.com/getzola/zola/tree/master/docs/content/documentation)
 - [Linkita Theme](https://github.com/salif/linkita)
-- [Just Manual](https://just.systems/)
-- [Markdown Guide](https://www.markdownguide.org/)
+- [Justfile Manual](https://github.com/casey/just)
+
+### Online books and links
+- [Zola Documentation](https://www.getzola.org/documentation/getting-started/overview/)
+- [Tera Template Engine Documentation](https://keats.github.io/tera/docs/)
+- [Markdown pulldown-cmark guide](https://pulldown-cmark.github.io/pulldown-cmark/specs.html)
+- [Linkita Theme](https://salif.github.io/linkita/about/)
+- [Justfile Manual](https://just.systems/man/en/)
 
 ## Project Goals
 

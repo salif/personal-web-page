@@ -13,6 +13,27 @@ links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/projects/lemm
 other = "7 gl le iz"
 
 [[project]]
+name = "Photon"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.xylight.dev/projects/photon/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "FlareApp"
+desc = ""
+tags = ["bg"]
+links = [{ name = "crowdin", url = "https://crowdin.com/project/flareapp/activity-stream?lang=7" }]
+other = "7 gl le iz"
+
+[[project]]
+name = "pl-fe"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/pl-fe/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
 name = "Mbin"
 desc = ""
 tags = ["bg"]
@@ -27,25 +48,11 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/thumb-ke
 other = "7 gl le iz"
 
 [[project]]
-name = "Photon"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.xylight.dev/projects/photon/-/bg/#history" }]
-other = "7 gl le iz"
-
-[[project]]
 name = "LibreTranslate"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/libretranslate/-/bg/#history" }]
 other = "6 gl le ne"
-
-[[project]]
-name = "TOKIMEKI"
-desc = ""
-tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/spuithori/tokimekibluesky/commits/master/src/lib/i18n/locales/bg.json" }]
-other = "5 gl tr iz"
 
 [[project]]
 name = "giscus"
@@ -76,10 +83,10 @@ links = [{ name = "localazy", url = "https://localazy.com/p/element-web" }]
 other = "5 gl tr iz"
 
 [[project]]
-name = "minimal-mistakes"
+name = "TOKIMEKI"
 desc = ""
 tags = ["bg"]
-links = [{ name = "github", url = "https://github.com/mmistakes/minimal-mistakes/commits/master/_data/ui-text.yml" }]
+links = [{ name = "github", url = "https://github.com/spuithori/tokimekibluesky/commits/master/src/lib/i18n/locales/bg.json" }]
 other = "4 gl tr ne"
 
 [[project]]
@@ -104,34 +111,6 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/fedilab/
 other = "2 ng le ne"
 
 [[project]]
-name = "pl-fe"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/pl-fe/-/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Iceshrimp"
-desc = ""
-tags = ["bg", "stopped"]
-links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/projects/iceshrimp/-/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Firefish"
-desc = ""
-tags = ["bg", "stopped"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
-name = "Kaiteki"
-desc = ""
-tags = ["bg", "stopped"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/kaiteki/-/bg/#history" }]
-other = "2 ng le ne"
-
-[[project]]
 name = "Mangane"
 desc = ""
 tags = ["bg"]
@@ -143,4 +122,32 @@ name = "PinkSea"
 desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/shinolabs/PinkSea/commits/master/PinkSea.Frontend/src/intl/translations/bg.json" }]
+other = "0 ng tr ne"
+
+[[project]]
+name = "minimal-mistakes"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/mmistakes/minimal-mistakes/commits/master/_data/ui-text.yml" }]
+other = "0 ng tr ne"
+
+[[project]]
+name = "Iceshrimp"
+desc = ""
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://translate.iceshrimp.dev/projects/iceshrimp/-/bg/#history" }]
+other = "0 ng tr ne"
+
+[[project]]
+name = "Firefish"
+desc = ""
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/firefish/-/bg/#history" }]
+other = "0 ng tr ne"
+
+[[project]]
+name = "Kaiteki"
+desc = ""
+tags = ["bg", "stopped"]
+links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/kaiteki/-/bg/#history" }]
 other = "0 ng tr ne"
