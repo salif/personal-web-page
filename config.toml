@@ -97,8 +97,8 @@ username = "salif"
 gender = "male"
 
 [extra.profiles.salif.open_graph.fediverse_creator]
-handle = "13"
-domain = "sharkey.world"
+handle = "yen"
+domain = "app.wafrn.net"
 
 [extra.languages.en]
 locale = "en_US"

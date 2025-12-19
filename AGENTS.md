@@ -119,7 +119,6 @@ The `linkita` theme is included as a git submodule. To customize:
 - **TOML:** Use consistent indentation and spacing
 - **Markdown:** Follow standard Markdown conventions
 - **Justfile:** Maintain existing recipe structure
-- **Commit Messages:** Bulgarian or English are both acceptable
 
 ### Important Notes
 
@@ -165,7 +164,7 @@ zola check --skip-external-links
 - [Linkita Theme](https://github.com/salif/linkita)
 - [Justfile Manual](https://github.com/casey/just)
 
-### Online books and links
+### Other
 - [Zola Documentation](https://www.getzola.org/documentation/getting-started/overview/)
 - [Tera Template Engine Documentation](https://keats.github.io/tera/docs/)
 - [Markdown pulldown-cmark guide](https://pulldown-cmark.github.io/pulldown-cmark/specs.html)
@@ -175,9 +174,7 @@ zola check --skip-external-links
 ## Project Goals
 
 This is a **personal website** project focused on:
-- Simple, fast, multilingual static site
+- Multilingual static site
 - Showcasing projects and contributions
 - Providing contact and profile information
 - Minimal dependencies and clean design
-
-Keep changes aligned with these goals: simplicity, performance, and multilingual support.

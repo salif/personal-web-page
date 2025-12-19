@@ -34,15 +34,19 @@
 
 ---
 
+[Keyoxide](https://keyoxide.org/aspe:keyoxide.org:HEX6MLQQW4SLDFSKPKZVMVOJQA)
+
 [WakaTime @salif](https://wakatime.com/@salif)
 
 [Exercism @salif](https://exercism.org/profiles/salif)|
 
 [HackerRank @salif](https://www.hackerrank.com/salif)
 
+[W3Schools @13](https://www.w3profile.com/13)
+
 [Sololearn @7499537](https://www.sololearn.com/profile/7499537)
 
-[W3Schools @13](https://www.w3profile.com/13)
+[OpenDesktop](https://www.pling.com/u/salifm/)
 
 [10FastFingers @1849490](https://10fastfingers.com/user/1849490)
 

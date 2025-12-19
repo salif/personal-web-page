@@ -48,6 +48,13 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/thumb-ke
 other = "7 gl le iz"
 
 [[project]]
+name = "Keyoxide"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://translate.codeberg.org/projects/keyoxide/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
 name = "LibreTranslate"
 desc = ""
 tags = ["bg"]
