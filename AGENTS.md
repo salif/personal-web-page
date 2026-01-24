@@ -20,7 +20,7 @@ This is a personal website built with [Zola](https://www.getzola.org/), a fast s
 
 ```
 .
-├── config.toml          # Main Zola configuration
+├── zola.toml          # Main Zola configuration
 ├── content/             # Markdown content files
 │   ├── _index.md        # Homepage (English)
 │   ├── _index.bg.md     # Homepage (Bulgarian)
@@ -48,7 +48,7 @@ This is a personal website built with [Zola](https://www.getzola.org/), a fast s
 - **eo** (Esperanto) - Full translation
 - **tr** (Turkish) - Full translation
 
-### Important Settings (config.toml)
+### Important Settings (zola.toml)
 - Base URL: `https://salif.eu`
 - Theme: `linkita`
 - External links open in new tab
@@ -86,7 +86,7 @@ zola serve
 The `linkita` theme is included as a git submodule. To customize:
 1. Override templates by creating files in `templates/` with same structure
 2. Override static files by placing in `static/`
-3. Configure theme settings in `[extra]` section of `config.toml`
+3. Configure theme settings in `[extra]` section of `zola.toml`
 
 ## Guidelines for AI Agents
 
@@ -155,7 +155,7 @@ zola check --skip-external-links
 
 **Translation issues:**
 - Ensure all language files have matching structure
-- Check `config.toml` language configurations
+- Check `zola.toml` language configurations
 
 ## Resources
 

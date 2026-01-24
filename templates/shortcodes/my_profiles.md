@@ -38,7 +38,7 @@
 
 [WakaTime @salif](https://wakatime.com/@salif)
 
-[Exercism @salif](https://exercism.org/profiles/salif)|
+[Exercism @salif](https://exercism.org/profiles/salif)
 
 [HackerRank @salif](https://www.hackerrank.com/salif)
 
