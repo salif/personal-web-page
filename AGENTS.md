@@ -20,7 +20,7 @@ This is a personal website built with [Zola](https://www.getzola.org/), a fast s
 
 ```
 .
-├── zola.toml          # Main Zola configuration
+├── zola.toml            # Main Zola configuration
 ├── content/             # Markdown content files
 │   ├── _index.md        # Homepage (English)
 │   ├── _index.bg.md     # Homepage (Bulgarian)
