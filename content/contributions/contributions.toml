@@ -16,7 +16,7 @@ other = "7 gl le iz"
 name = "Photon"
 desc = ""
 tags = ["bg"]
-links = [{ name = "weblate", url = "https://weblate.xylight.dev/projects/photon/-/bg/#history" }]
+links = [{ name = "weblate", url = "https://translate.codeberg.org/projects/photon/-/bg/#history" }]
 other = "7 gl le iz"
 
 [[project]]
@@ -27,7 +27,7 @@ links = [{ name = "crowdin", url = "https://crowdin.com/project/flareapp/activit
 other = "7 gl le iz"
 
 [[project]]
-name = "pl-fe"
+name = "Nicolium"
 desc = ""
 tags = ["bg"]
 links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/pl-fe/-/bg/#history" }]
