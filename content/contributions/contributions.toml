@@ -48,6 +48,13 @@ links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/thumb-ke
 other = "7 gl le iz"
 
 [[project]]
+name = "Ibis"
+desc = ""
+tags = ["bg"]
+links = [{ name = "weblate", url = "https://weblate.join-lemmy.org/projects/ibis/-/bg/#history" }]
+other = "7 gl le iz"
+
+[[project]]
 name = "Keyoxide"
 desc = ""
 tags = ["bg"]
@@ -66,6 +73,13 @@ name = "giscus"
 desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/giscus/giscus/commits/main/locales/bg" }]
+other = "5 gl tr iz"
+
+[[project]]
+name = "GoatCounter"
+desc = ""
+tags = ["bg"]
+links = [{ name = "github", url = "https://github.com/arp242/goatcounter/commits/main/i18n/bg-BG.toml" }]
 other = "5 gl tr iz"
 
 [[project]]
@@ -95,13 +109,6 @@ desc = ""
 tags = ["bg"]
 links = [{ name = "github", url = "https://github.com/spuithori/tokimekibluesky/commits/master/src/lib/i18n/locales/bg.json" }]
 other = "4 gl tr ne"
-
-[[project]]
-name = "KeepassDX"
-desc = ""
-tags = ["bg"]
-links = [{ name = "weblate", url = "https://hosted.weblate.org/projects/keepass-dx/-/bg/#history" }]
-other = "3 ng le iz"
 
 [[project]]
 name = "Tusky"

@@ -2,6 +2,8 @@
 
 [Codeberg @salif](https://codeberg.org/salif)
 
+[Tangled @yen.salif.eu](https://tangled.org/yen.salif.eu)
+
 ---
 
 [Hex @lumalee](https://hex.pm/users/lumalee)
@@ -20,23 +22,19 @@
 
 [LinkedIn @salifm](https://www.linkedin.com/in/salifm)
 
-[Hashnode @salif](https://hashnode.com/@salif)
-
-[Disqus @salifm](https://disqus.com/by/salifm)
-
 ---
 
 [Hosted Weblate @13](https://hosted.weblate.org/user/13)
 
 [Codeberg Translate @salif](https://translate.codeberg.org/user/salif)
 
+[Lemmy Weblate @salif](https://weblate.join-lemmy.org/user/salif/)
+
 [Crowdin @salifm](https://crowdin.com/profile/salifm)
 
 ---
 
 [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:HEX6MLQQW4SLDFSKPKZVMVOJQA)
-
-[WakaTime @salif](https://wakatime.com/@salif)
 
 [Exercism @salif](https://exercism.org/profiles/salif)
 
@@ -51,9 +49,5 @@
 [10FastFingers @1849490](https://10fastfingers.com/user/1849490)
 
 [YouTube @Jutubisto](https://www.youtube.com/@Jutubisto)
-
-[Keybase @salifm_](https://keybase.io/salifm_)
-
-[daily.dev @salifm](https://app.daily.dev/salifm)
 
 [Holopin @salif](https://www.holopin.io/@salif)

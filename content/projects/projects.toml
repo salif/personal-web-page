@@ -147,17 +147,6 @@ links = [
 desc = "За създаване на многоезични приложения с Gleam"
 
 [[project]]
-name = "mon"
-desc = "A library for building decks"
-tags = ["Gleam"]
-links = [
-	{ name = "on codeberg", url = "https://codeberg.org/salif/mon" },
-	{ name = "on github", url = "https://github.com/salif/mon" },
-]
-[project.languages.bg]
-desc = "Библиотека за създаване на тестета"
-
-[[project]]
 name = "gleam-open-color"
 desc = "Gleam implementation of the Open Color scheme"
 tags = ["Gleam"]
@@ -328,17 +317,6 @@ tags = ["Неактивни"]
 desc = "Шрифт Comic Mono с лигатури"
 
 [[project]]
-name = "mbin-custom-css"
-desc = "Mbin Custom CSS Themes"
-tags = ["Inactive"]
-links = [
-	{ name = "on github", url = "https://github.com/salif/mbin-custom-css" },
-]
-[project.languages.bg]
-tags = ["Неактивни"]
-desc = "Персонализирани CSS теми за Mbin"
-
-[[project]]
 name = "hide-text"
 desc = "Hide a secret text message inside a text message"
 tags = ["Inactive"]
@@ -431,17 +409,6 @@ links = [
 [project.languages.bg]
 tags = ["Архивирани"]
 desc = "Клавиатурна подредба за руски (Colemak)"
-
-[[project]]
-name = "esiromem"
-desc = "For memorizing things, using spaced repetition"
-tags = ["Concept"]
-links = [
-	{ name = "on github", url = "https://github.com/salif/esiromem" },
-]
-[project.languages.bg]
-tags = ["Концепция"]
-desc = "За запаметяване на неща, използвайки метода на интервално повторение"
 
 [[project]]
 name = "glance_printer_bal"
